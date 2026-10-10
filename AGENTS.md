@@ -1,0 +1,3 @@
+# Repository instructions
+
+This repository contains reusable personal AI skills. Read README.md and the relevant skills/*/SKILL.md before editing. Keep each skill narrowly scoped and actionable. Do not claim automatic cross-app activation, verified outcomes, model superiority, or successful tests without evidence. Preserve YAML frontmatter in SKILL.md. Distinguish facts, assumptions, and untested hypotheses. Never commit secrets or private client data. Record substantive changes in CHANGELOG.md. Do not auto-trigger a full questioning workflow for direct factual requests or explicit execution tasks.
